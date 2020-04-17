@@ -1,0 +1,19 @@
+{
+  "name": "news-scraper",
+  "version": "1.0.0",
+  "description": "News Scraper built with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stubrew24/news-scraper.git"
+  },
+  "author": "Stuart Sewell <https://stuartsewell.dev>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stubrew24/news-scraper/issues"
+  },
+  "homepage": "https://github.com/stubrew24/news-scraper#readme"
+}
